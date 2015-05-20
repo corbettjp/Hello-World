@@ -1,3 +1,3 @@
 # Hello-World
-First Repository
+First Repository.
 Today's Date is May 20th, 2015.
